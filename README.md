@@ -33,7 +33,5 @@ Welcome to my Github page! I am Fernando and I am currently finishing my Compute
 <br />
 <code><img width="10%" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
-<code><img width="10% margin="2px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img width="10% src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 </p>
-
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
