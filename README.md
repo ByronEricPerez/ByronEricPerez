@@ -11,7 +11,7 @@ Welcome to my Github page!
 
 
 #### 🌱 Lore: 
-- I am currently in an internship at a company where I use technologies such as JavaScript, TypeScript, CSS and React. Complete a course at CoderHouse, where you'll gain basic skills in HTML, CSS, JavaScript, and React. I am currently working on an application for the registration and control of working time. I also contributed six months to an open source project using React, React Native, Redux, and Sass. I am excited to continue developing my skills and learning new technologies.
+- I am currently in an internship at a company where I use technologies such as JavaScript, TypeScript, CSS and React. I am currently working on an application for the registration and control of working time. I also contributed six months to an open source project using React, React Native, Redux, and Sass. I am excited to continue developing my skills and learning new technologies.
 
 
 #### :computer: Programming languages and tools: 
